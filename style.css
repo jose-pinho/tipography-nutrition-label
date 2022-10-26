@@ -68,3 +68,11 @@ overflow: hidden;
     font-size: 0.85rem;
 }
 
+.indent{
+    margin-left: 1.0em;
+}
+
+.daily-value p:not(.no-divider){
+    border-bottom: 1px solid #888989;
+}
+
